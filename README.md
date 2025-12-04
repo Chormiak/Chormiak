@@ -1,9 +1,6 @@
 # William Chormiak
 
-Olá, sou um estudante do IFC Araquari do curso tecnico em Informática para Internet
-
-Descrição curta, direta e objetiva sobre quem você é e o que você está focando no momento.  
-Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhando com Linux, automação e projetos para web.
+Estudante de Informática para Internet no IFC Araquari, focado em desenvolvimento backend para web e avançando nos fundamentos de segurança.
 
 ## Tecnologias e Ferramentas
 
