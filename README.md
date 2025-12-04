@@ -5,8 +5,6 @@ Olá, sou um estudante do IFC Araquari do curso tecnico em Informática para Int
 Descrição curta, direta e objetiva sobre quem você é e o que você está focando no momento.  
 Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhando com Linux, automação e projetos para web.
 
----
-
 ## Tecnologias e Ferramentas
 
 <div style="display: inline_block"><br>
@@ -22,17 +20,7 @@ Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhan
 
 </div>
 
----
-
-## Estatísticas
-
-<div style="display: flex; gap: 8px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chormiak&show_icons=true&theme=default&include_all_commits=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chormiak&layout=compact&theme=default"/>
-</div>
-
 <!--
----
 
 ## Projetos Relevantes
 
@@ -45,7 +33,6 @@ Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhan
 ## Portfólio
 [Acesse aqui](https://[seuusername].github.io)
 -->
----
 
 ## Contato
 
