@@ -28,8 +28,8 @@ Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhan
 
 <div style="display: flex; gap: 8px;">
 
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=[SEU_USERNAME]&show_icons=true&theme=default&include_all_commits=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU_USERNAME]&layout=compact&theme=default"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Chormiak&show_icons=true&theme=default&include_all_commits=true"/>
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chormiak&layout=compact&theme=default"/>
 
 </div>
 
