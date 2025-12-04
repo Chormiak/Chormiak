@@ -27,10 +27,8 @@ Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhan
 ## Estatísticas
 
 <div style="display: flex; gap: 8px;">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=Chormiak&show_icons=true&theme=default&include_all_commits=true"/>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chormiak&layout=compact&theme=default"/>
-
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chormiak&show_icons=true&theme=default&include_all_commits=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chormiak&layout=compact&theme=default"/>
 </div>
 
 <!--
@@ -52,11 +50,11 @@ Exemplo: Estudante de desenvolvimento web e fundamentos de segurança, trabalhan
 ## Contato
 
 <div>
-  <a href="https://www.linkedin.com/in/[www.linkedin.com/in/william-chormiak-54489539a]" target="_blank">
+  <a href="https://www.linkedin.com/in/william-chormiak-54489539a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:[william.chormi@gmail.com]">
+  <a href="mailto:william.chormi@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   
